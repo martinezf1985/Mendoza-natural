@@ -114,6 +114,7 @@ const Carousel: React.FC = () => {
   }, [currentImageIndex]);
 
   return (
+    
     <div className="relative w-1/2 mx-auto overflow-hidden rounded-lg shadow-lg">
       {/* Carousel wrapper */}
       <div className="relative h-56 overflow-hidden rounded-lg md:h-96">

@@ -3,9 +3,9 @@ import Link from "next/link";
 
 const Features: React.FC = () => {
   return (
-    <div id="features" className="lg:my-12">
-      <div className="container mx-auto px-6 p-6 bg-white dark:bg-gray-800">
-        <div className="mb-16 text-center">
+        <div className="mb-16 text-center  bg-white">
+    <div id="features" className="lg:my-12 ">
+      <div className="container mx-auto px-6 p-6  dark:bg-gray-800">
           <h2 className="text-base text-green-600 font-semibold tracking-wide uppercase">
             Excursiones
           </h2>

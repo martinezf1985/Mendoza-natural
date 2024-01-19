@@ -6,7 +6,7 @@ export default function index() {
   // const hello = api.post.hello.useQuery({ text: "from tRPC" });
 
   return (
-    <div className=" min-h-screen">
+    <div className=" min-h-screen  ">
       <Navbar/>
       <Home/>
     </div>
