@@ -33,11 +33,8 @@ const Banner: React.FC = () => {
               Natural
             </span>
           </h1>
-          <h1 className="w-32 h-32  hover:rotate-45 transform origin-center transition-all duration-300 ease-in-out">
-            {" "}
-            holaaaaaa{" "}
-          </h1>
-          <p className="text-sm sm:text-base text-yellow-500 dark:text-white hover:rotate-180 transform origin-center transition-all duration-300 ease-in-out">
+          
+          <p className="text-sm sm:text-base text-brown dark:text-white hover:rotate-180 transform origin-center transition-all duration-300 ease-in-out">
             Dimension of reality that makes change possible and understandable.
             An indefinite and homogeneous environment in which natural events
             and human existence take place.

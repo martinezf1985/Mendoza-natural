@@ -8,7 +8,7 @@ const Guidelines: React.FC = () => {
 
       <div className="lg:w-1/2 py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
         {/* Otras partes del componente... */}
-
+<h1>hola a todos mi nombre es pablo isola soy  un protector de la cerveza y el fernet</h1>
         <div className="mt-12 inline-flex rounded-md shadow">
         <Link href="/home#services" passHref>
   <button className="uppercase py-2 px-4 rounded-lg bg-gray-500 border-2 border-transparent text-white text-md mr-4 hover:bg-yellow-400">

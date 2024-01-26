@@ -1,11 +1,11 @@
 // tailwind.config.js
+import { type Config } from "tailwindcss";
 import { fontFamily } from "tailwindcss/defaultTheme";
 
 export default {
   content: [
     "./node_modules/flowbite-react/lib/**/*.js",
-    "./src/**/*.tsx"
-  ],
+    "./src/**/*.tsx"],
   theme: {
     extend: {
       fontFamily: {
@@ -17,4 +17,4 @@ export default {
     },
   },
   plugins: [require("flowbite/plugin")],
-};
+} satisfies Config;
